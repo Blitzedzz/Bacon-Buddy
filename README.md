@@ -2,7 +2,6 @@
 
 Bacon Buddy is a desktop assistant designed to assist you with various tasks and provide a seamless experience while using your computer. It's created by [Blitzedzz](link to Blitzedzz's profile or website).
 
-
 ## Installation
 
 To install Bacon Buddy, follow these steps:
@@ -16,3 +15,7 @@ To install Bacon Buddy, follow these steps:
 4. Open Start.bat
 
 5. Enjoy! 
+
+## Kind of annoying features
+
+-- Startup with PC (you can turn off with task mgr)
