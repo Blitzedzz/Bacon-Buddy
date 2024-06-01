@@ -18,4 +18,4 @@ To install Bacon Buddy, follow these steps:
 
 ## Kind of annoying features
 
--- Startup with PC (you can turn off with task mgr)
+Startup with PC (you can turn off with task mgr)
