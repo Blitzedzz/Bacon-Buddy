@@ -1,6 +1,6 @@
 # Bacon Buddy
 
-Bacon Buddy is a desktop assistant designed to assist you with various tasks and provide a seamless experience while using your computer. It's created by [Blitzedzz](link to Blitzedzz's profile or website).
+Bacon Buddy is a desktop assistant designed to assist you with various tasks and provide a seamless experience while using your computer. It's created by [Blitzedzz](https://x.com/blitzedzz49950).
 
 ## Installation
 
